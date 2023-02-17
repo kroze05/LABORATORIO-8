@@ -94,7 +94,7 @@ En un multímetro convencional el voltaje medido de la corriente alterna será e
 
 # 8.6. VIDEO
 
-https://youtu.be/THS1YqkPRxI
+https://youtu.be/7DedLM-TtbY
 
 # 8.7. CONCLUSIONES
 
