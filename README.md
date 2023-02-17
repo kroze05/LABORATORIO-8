@@ -46,11 +46,11 @@ NRC: 10063
 
 8.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
-![image](https://user-images.githubusercontent.com/117781501/219458238-90615433-7822-40f9-bc0e-d2ca418aeeeb.png)
+![image](https://user-images.githubusercontent.com/89498534/219694965-cf8f9911-0f10-455a-9f9f-fab627efa829.png)
 
 8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/117781501/219458290-446b1628-b041-4f57-b0c6-e2804b73ad30.png)
+![image](https://user-images.githubusercontent.com/89498534/219695212-55753918-4477-4ff3-b2b7-a2f756acbf83.png)
 
 8.5.4. Responda las siguientes preguntas:
 
